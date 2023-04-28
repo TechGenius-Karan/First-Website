@@ -1,0 +1,40 @@
+body { 
+  width: 100%;
+  height: 5%;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHdlYnNpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60); 
+  background-size: cover;
+
+ }
+
+h1 {
+  justify-items: center;
+  text-align:center;
+  font-size: 2.5rem;
+  color: #E2DBDB;
+}
+
+.btn {
+  border-radius:500px;
+  font-weight:300;
+  text-transform: uppercase;
+  font-family:Calibri;
+  padding: 10px 25px;
+}
+
+.btn:hover {
+  background-color:lightsalmon;
+  border-width:3px;
+}
+
+.container {
+  padding: 275px 0;
+  text-align: center;
+  align-content: center;
+}
+
+p {
+  margin:10px 0px;
+  text-align: center;
+  color: ;
+}
