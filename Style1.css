@@ -8,6 +8,7 @@ h2 {
 body {
 	background-image: url(https://images.unsplash.com/photo-1509114397022-ed747cca3f65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJhY2tncm91bmQlMjBpbWFnZSUyMHJlZCUyMG9yJTIwb3JhbmdlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
 	background-size: cover;
+	background-size: 100%;
 }
 h2:hover {
 	cursor:pointer;
